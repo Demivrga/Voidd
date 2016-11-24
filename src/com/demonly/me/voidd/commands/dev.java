@@ -6,8 +6,6 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import com.demonly.me.voidd.gui.GUICreate;
-
 public class dev implements CommandExecutor {
 
 	@Override
