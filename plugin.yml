@@ -1,0 +1,11 @@
+name: Voidd
+main: com.demonly.me.voidd.main
+author: Demonly
+version: 0.1
+commands:
+  voidd:
+    description: kills your mom
+  devworlds:
+    description: kills your mom
+  devtest:
+    description: kills your mom
